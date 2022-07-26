@@ -18,6 +18,6 @@ Before refactoring when running our code for the year 2018 our macro ran in 0.32
 !https://github.com/brandonmc01/StockAnalysis-VBA/blob/5afd0f86e6c69e164955ec537472c597168f60d9/PNGs/Stocks%202018.png)
 
 ## Benefits of refactioring code
-   -Refactoring code can improve the eficiency and readability of our code.  We can create reduce duplicate code which can make it easier when testing or finding bugs.  Refactoring can also make our code easier to read for other developers.
+   Refactoring code can improve the eficiency and readability of our code.  We can create reduce duplicate code which can make it easier when testing or finding bugs.  Refactoring can also make our code easier to read for other developers.
 ## Cons of refactoring code
-   -There can be disadvantages when refactoring code as well.  Refactoring can introduce new bugs to our existing code and it can be time consuming without providing users new functionality.
+   There can be disadvantages when refactoring code as well.  Refactoring can introduce new bugs to our existing code and it can be time consuming without providing users new functionality.
