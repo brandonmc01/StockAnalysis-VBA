@@ -10,10 +10,10 @@ Before refactoring when running our code for the year 2017 our macro ran in 0.32
 !https://github.com/brandonmc01/StockAnalysis-VBA/blob/5afd0f86e6c69e164955ec537472c597168f60d9/PNGs/2017.png)
 
 !https://github.com/brandonmc01/StockAnalysis-VBA/blob/5afd0f86e6c69e164955ec537472c597168f60d9/PNGs/Stocks%202017.png)
-
-!https://github.com/brandonmc01/StockAnalysis-VBA/blob/5afd0f86e6c69e164955ec537472c597168f60d9/PNGs/2018.png)
  
 Before refactoring when running our code for the year 2018 our macro ran in 0.328125 and after refactoring our code ran in 0.0625
+
+!https://github.com/brandonmc01/StockAnalysis-VBA/blob/5afd0f86e6c69e164955ec537472c597168f60d9/PNGs/2018.png)
 
 !https://github.com/brandonmc01/StockAnalysis-VBA/blob/5afd0f86e6c69e164955ec537472c597168f60d9/PNGs/Stocks%202018.png)
 
